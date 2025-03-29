@@ -9,7 +9,8 @@ import music1
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
-api_key_news = "17166a8b9fbf493397013021241710"  # Replace with a valid API key for News API
+api_key_news = "YOUR_NEWS_API_KEY"  
+# Replace with a valid API key for News API
 api_key_weather = "YOUR_WEATHER_API_KEY"  # Replace with a valid API key for Weather API
 api_key_gemini = "YOUR_GEMINI_API_KEY"  # Replace with a valid API key for Google Gemini AI
 
